@@ -15,7 +15,7 @@ public class HashMapSample {
 		hm.put("praveen", "praveen@bss.com");
 		hm.put("aruna", "aruna@bss.com");
 		hm.put("hosni", "hosni@bss.com");
-		
+		hm.put("lilia","lilia@bss.com" );
 		Set <Entry<String, String>> es=hm.entrySet();
 		
 		Iterator<Entry<String, String>> it= es.iterator();
